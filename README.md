@@ -2,6 +2,9 @@
 
 The profile you are looking for belongs to **Emin Muhammadi** (Emin Mühəmmədi).
 
+A supporter is worth a thousand followers. 
+![Supporters](https://img.shields.io/github/sponsors/eminmuhammadi?label=Sponsor&logo=GitHub)
+
 <center>
   <table>
     <tr>
